@@ -1,4 +1,3 @@
-//your code here
 document.addEventListener('DOMContentLoaded', function () {
     const images = document.querySelectorAll('.image');
     let dragItem = null;
